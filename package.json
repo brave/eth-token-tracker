@@ -1,5 +1,5 @@
 {
-  "name": "@metamask/eth-token-tracker",
+  "name": "@brave/eth-token-tracker",
   "version": "3.1.0",
   "description": "A module for tracking Ethereum token balances over block changes.",
   "main": "dist/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/MetaMask/eth-token-tracker.git"
+    "url": "git+ssh://git@github.com/brave/eth-token-tracker.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
@@ -25,9 +25,9 @@
   "author": "Dan Finlay <dan@danfinlay.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MetaMask/eth-token-tracker/issues"
+    "url": "https://github.com/brave/eth-token-tracker/issues"
   },
-  "homepage": "https://github.com/MetaMask/eth-token-tracker#readme",
+  "homepage": "https://github.com/brave/eth-token-tracker#readme",
   "files": [
     "/dist",
     "/lib"
